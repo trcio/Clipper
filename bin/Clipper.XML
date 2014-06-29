@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Clipper</name>
+    </assembly>
+    <members>
+        <member name="P:Clipper.Entities.ClipperEventArgs.ClipboardText">
+            <summary>
+            The global clipboard's current text.
+            </summary>
+        </member>
+        <member name="M:Clipper.ClipperGlobal.Initialize">
+            <summary>
+            Starts listening for clipboard changes.
+            </summary>
+        </member>
+        <member name="E:Clipper.ClipperGlobal.ClipperTextChanged">
+            <summary>
+            Fires when the user's clipboard text changes.
+            </summary>
+        </member>
+    </members>
+</doc>

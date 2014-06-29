@@ -1,0 +1,11 @@
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\bin\Release\ClipboardMonitor.exe
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\bin\Release\ClipboardMonitor.pdb
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\bin\Release\Clipper.dll
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\bin\Release\Clipper.pdb
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\obj\Release\ClipboardMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\obj\Release\ClipboardMonitor.Form1.resources
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\obj\Release\ClipboardMonitor.Properties.Resources.resources
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\obj\Release\ClipboardMonitor.csproj.GenerateResource.Cache
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\obj\Release\ClipboardMonitor.exe
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\obj\Release\ClipboardMonitor.pdb
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\ClipboardMonitor\bin\Release\Clipper.xml

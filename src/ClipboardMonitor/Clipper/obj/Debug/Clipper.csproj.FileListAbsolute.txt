@@ -1,0 +1,4 @@
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\Clipper\bin\Debug\Clipper.dll
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\Clipper\bin\Debug\Clipper.pdb
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\Clipper\obj\Debug\Clipper.dll
+C:\Users\Pat\Google Drive\Projects\Visual Studio\ClipboardMonitor\Clipper\obj\Debug\Clipper.pdb
